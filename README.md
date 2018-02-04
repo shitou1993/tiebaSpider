@@ -1,5 +1,6 @@
 # tiebaSpider
 ## 百度贴吧标题爬虫(urllib2+beautifulsoup)
+## 新更百度贴吧标题爬虫(scrapy框架)
 该爬虫主要是使用对百度贴吧的帖子列表的标题信息进行爬取
 
 由四个函数组成：
